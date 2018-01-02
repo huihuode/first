@@ -15,6 +15,9 @@ public class ProductModel {
 	// 图片名称
 	private String picture;
 	
+	private String d1;
+	
+	private String d2;
 	
 	public String getPid() {
 		return pid;
